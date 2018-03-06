@@ -1,0 +1,3 @@
+rootProject.name = 'Passport_local_startegy'
+
+include ':app'
